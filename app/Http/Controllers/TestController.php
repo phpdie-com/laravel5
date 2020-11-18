@@ -121,7 +121,6 @@ class TestController extends Controller
             \call_user_func('dump',$$val_temp);
         }
     }
-
     public function demo(){
         echo 'demo';
     }
